@@ -1,0 +1,85 @@
+{
+    "basics": {
+        "name": "Gawaskar",
+        "fathername": "Prakasam",
+        "designation": "senior web developer",
+        "email": "gawas01@gmail.com",
+        "phone": "9600878222",
+        "professional summary": "Having 9.3yrs of experience in IT industry with strong knowledge on web content management & java & adaptable to other cms tools quickly. S",
+        "location": {
+            "address": "EB Colony-Velachery",
+            "postalCode": "600042",
+            "city": "Chennai",
+            "region": "India"
+        }
+    },
+    "work": [
+        {
+            "company": "Xerago Ebiz services pvt ltd",
+            "position": "senior web developer",
+            "website": "http://xerago.com",
+            "startDate": "2014-08-18",
+            "endDate": "Till-Date",
+            "summary": "9.3 yrs experience in Xerago"
+        }
+    ],
+    "education": [
+        {
+            "institution": "KSR college of technology",
+            "university": "Anna University-Coimbatore",
+            "studyType": "Master-Degree",
+            "specialization": "IT",
+            "startDate": "2010-01-01",
+            "endDate": "2012-01-01",
+            "gpa": "9.0"
+        }
+    ],
+    "skills": [
+        {
+            "webtechnologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "jquery",
+                "ajax"
+            ],
+            "devtechnologies": [
+                "java",
+                "jsp",
+                "android",
+                "php"
+            ],
+            "aem": [
+                "AEM6.3",
+                "AEM6.5",
+                "AEM-Cloud"
+            ],
+            "databased": [
+                "mysql",
+                "oracle"
+            ],
+            "editor": [
+                "Eclipse",
+                "vscode",
+                "STS"
+            ],
+            "cmstools": [
+                "AEM",
+                "drupal",
+                "opentext"
+            ]
+        }
+    ],
+    "projects": {
+        "clientname": "Citibank",
+        "technology": "CMS",
+        "languages": [
+            "html",
+            "css",
+            "js",
+            "jquery"
+        ],
+        "location": "chennai",
+        "projectDescription": "Citibank all country content managed from our end"
+    }
+}
